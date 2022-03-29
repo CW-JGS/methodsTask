@@ -1,0 +1,15 @@
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\obj\Debug\net6.0\methodsTask.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\obj\Debug\net6.0\methodsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\obj\Debug\net6.0\methodsTask.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\obj\Debug\net6.0\methodsTask.AssemblyInfo.cs
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\obj\Debug\net6.0\methodsTask.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\bin\Debug\net6.0\methodsTask.exe
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\bin\Debug\net6.0\methodsTask.deps.json
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\bin\Debug\net6.0\methodsTask.runtimeconfig.json
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\bin\Debug\net6.0\methodsTask.dll
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\bin\Debug\net6.0\methodsTask.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\obj\Debug\net6.0\methodsTask.dll
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\obj\Debug\net6.0\refint\methodsTask.dll
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\obj\Debug\net6.0\methodsTask.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\obj\Debug\net6.0\methodsTask.genruntimeconfig.cache
+C:\Users\jacks\Desktop\projects\Swinburne\methodsTask\methodsTask\obj\Debug\net6.0\ref\methodsTask.dll
